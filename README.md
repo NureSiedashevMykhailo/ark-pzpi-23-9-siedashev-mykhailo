@@ -4,3 +4,5 @@
 Сєдашев Михайло
 
 Правила оформлення програмного коду мовою С++ за Google C++ Style Guide та C++ Core Guidelines
+
+Методи рефакторингу коду програмного забезпечення: Move Field, Pull Up Constructor Body, Replace Inheritance with Delegation на мові С++
